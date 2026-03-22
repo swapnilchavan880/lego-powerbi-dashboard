@@ -42,3 +42,6 @@ This project analyzes LEGO sets data (from 1970 onwards) to uncover insights on 
 
 ### 🚀 Outcome  
 This dashboard helps analyze **product trends, pricing strategy, and theme performance**, enabling better data-driven decisions.
+
+<img width="1372" height="768" alt="Lego Set view" src="https://github.com/user-attachments/assets/64f7db88-2ed0-452d-883e-f32f3ab15535" />
+
